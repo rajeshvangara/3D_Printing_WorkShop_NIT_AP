@@ -1,1 +1,6 @@
 # 3D_Printing_WorkShop_NIT_AP
+This Repository contains materials used in 3D Printing and Design Workshop, NIT Andhra Pradesh, 26th -30th july 2021
+
+The software used for this workshop are:
+FreeCAD, Website: https://www.freecadweb.org/
+Cura, Website: https://ultimaker.com/software/ultimaker-cura
