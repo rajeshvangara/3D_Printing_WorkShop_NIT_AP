@@ -4,3 +4,4 @@ This Repository contains materials used in 3D Printing and Design Workshop, NIT 
 The software used for this workshop are:
 FreeCAD, Website: https://www.freecadweb.org/
 Cura, Website: https://ultimaker.com/software/ultimaker-cura
+Fritzing, Website: https://fritzing.org/
